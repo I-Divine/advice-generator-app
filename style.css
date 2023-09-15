@@ -46,6 +46,10 @@ body {
 #btn-container :hover {
   box-shadow: 0px 0px 40px 10px hsl(150, 100%, 66%);
 }
+#instructions {
+  font-size: 20px;
+  margin: 20px;
+}
 #advice-btn {
   position: absolute;
   border: none;
